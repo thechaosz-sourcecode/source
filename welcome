@@ -1,0 +1,5 @@
+<?php
+  echo "Hello world<br/>";
+  echo "Welcome to Thechaosz's source code<br/>";
+  echo "Hope you like it!";
+?>
